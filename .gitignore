@@ -1,0 +1,11 @@
+ # Ignore local class materials 
+class_materials/ 
+ # Ignore local classnotes 
+classnotes/ 
+# Ignore Python cache files 
+__pycache__/ 
+*.pyc 
+# Ignore environment files 
+.env 
+# Ignore checkpoints
+.ipynb_checkpoints/
